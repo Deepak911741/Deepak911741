@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **dk367748@gmail.com**
 
-- 📄 Know about my experiences [https://portfoliodeepak.000webhostapp.com/Deepak%20Resume.pdf](https://portfoliodeepak.000webhostapp.com/Deepak%20Resume.pdf)
+- 📄 Know about my experiences [https://portfoliodeepak.000webhostapp.com/Deepak%20Resume.pdf](https://deepakportfolio-nu.vercel.app/resume.html)
 
 - ⚡ Fun fact **I am funny**
 
