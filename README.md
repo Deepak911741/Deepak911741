@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Js, Node Js, Python, Java, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://portfoliodeepak.000webhostapp.com/portfoli.html](https://portfoliodeepak.000webhostapp.com/portfoli.html)
+- 👨‍💻 All of my projects are available at [https://portfoliodeepak.000webhostapp.com/portfoli.html](https://deepakportfolio-nu.vercel.app/index.html)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/deepak-kumar-94a5b7284/](https://www.linkedin.com/in/deepak-kumar-94a5b7284/)
 
