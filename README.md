@@ -1,4 +1,3 @@
-![logo](https://github.com/Deepak911741/Deepak911741/blob/main/1693332104141.jpg)
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
