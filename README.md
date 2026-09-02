@@ -77,28 +77,28 @@ const deepak = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deepak911741&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak911741&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deepak911741&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak911741&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&hide=jupyter%20notebook" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepak911741&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=deepak911741&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak911741&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak911741&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepak911741&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=deepak911741&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" />
-</p>
+| Project | Description | Tech Stack |
+|---|---|---|
+| **[Project Name 1](https://github.com/deepak911741/rash-cafe-api)** | One-line description of what it does. | React.js, Node.js, MongoDB |
+| **[Project Name 2](https://github.com/deepak911741/deepak-resume)** | One-line description of what it does. | Next.js, Laravel, MySQL |
 
-> 📝 Replace `REPO_NAME_1` and `REPO_NAME_2` above with your actual repository names to pin your best projects here.
+> 📝 Apne 2 real repo ka naam + link bhejo, main isse turant asli **GitHub pinned cards** (jaisa design pehle tha) mein convert kar dunga.
 
 ---
 
