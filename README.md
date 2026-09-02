@@ -77,30 +77,20 @@ const deepak = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deepak911741&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepak911741&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&hide=jupyter%20notebook" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=deepak911741&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepak911741&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" />
-</p>
+> ⚠️ Contribution/language stat cards temporarily hata diye hain — public stats server rate-limited hai. Setup guide neeche di hai, khud ka instance ban jaate hi ye wapas add kar denge.
 
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Deepak911741/urlwebwala-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepak911741&repo=urlwebwala-api&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  </a>
-  <a href="https://github.com/Deepak911741/portfolio-new">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepak911741&repo=portfolio-new&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  </a>
-</p>
+### 🔹 [urlwebwala-api](https://github.com/Deepak911741/urlwebwala-api)
+Backend API project — add a short one-line description of what it does here.
+
+### 🔹 [portfolio-new](https://github.com/Deepak911741/portfolio-new)
+Personal portfolio website — add a short one-line description of what it does here.
 
 ---
 
