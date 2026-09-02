@@ -80,8 +80,6 @@ const deepak = {
   <img src="https://streak-stats.demolab.com/?user=deepak911741&theme=tokyonight&hide_border=true" />
 </p>
 
-> ⚠️ Contribution/language stat cards temporarily hata diye hain — public stats server rate-limited hai. Setup guide neeche di hai, khud ka instance ban jaate hi ye wapas add kar denge.
-
 ---
 
 ## 🚀 Featured Projects
