@@ -93,12 +93,14 @@ const deepak = {
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| **[Project Name 1](https://github.com/deepak911741/rash-cafe-api)** | One-line description of what it does. | React.js, Node.js, MongoDB |
-| **[Project Name 2](https://github.com/deepak911741/deepak-resume)** | One-line description of what it does. | Next.js, Laravel, MySQL |
-
-> 📝 Apne 2 real repo ka naam + link bhejo, main isse turant asli **GitHub pinned cards** (jaisa design pehle tha) mein convert kar dunga.
+<p align="center">
+  <a href="https://github.com/Deepak911741/urlwebwala-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepak911741&repo=urlwebwala-api&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  </a>
+  <a href="https://github.com/Deepak911741/portfolio-new">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Deepak911741&repo=portfolio-new&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  </a>
+</p>
 
 ---
 
